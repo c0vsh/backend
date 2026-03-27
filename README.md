@@ -29,7 +29,7 @@
 1. **Клонировать репозиторий**:
    ```bash
    git clone https://github.com/c0vsh/backend.git
-  ```
+   ```
 
 2. **Установить зависимости**:
 
